@@ -2,7 +2,7 @@
 layout: frontpage
 title: Xinyi Wu
 description: Xinyi Wu is a graduate student at Purple Mountain Observatory(PMO). 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+keywords: Xinyi, Wu, treats, recycling, mail, being a good boy
 ---
 
 Xinyi Wu is a graduate student at Purple Mountain Observatory. Her research interest is maily focus on galaxy formation and evolution, includes galaxy mergers and the searching for dwarf galaxies and stellar streams. 
@@ -23,9 +23,9 @@ Xinyi Wu is a graduate student at Purple Mountain Observatory. Her research inte
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Xinyi Wu" alt="Xinyi Wu"/></a>
+        <a href="../assets/child_and_dog.jpg">
+            <img src="../assets/child_and_dog.jpg"
+                  title="Child and Dog" alt="Child and Dog"/></a>
         </div>
     </div>
 </div>
