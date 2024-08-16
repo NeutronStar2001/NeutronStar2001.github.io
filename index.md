@@ -19,7 +19,7 @@ Xinyi Wu is a graduate student at Purple Mountain Observatory. Her research inte
     <div class="row-fluid">
         <div class="span5">
             Xinyi Wu<br/>
-            Email: xinyiwu@pmo.ac.cn<br/>
+            Email: xywu@pmo.ac.cn<br/>
         </div>
 
         <div class="span2">
