@@ -285,6 +285,7 @@ input, select, textarea {
 /* Banner a tempt*/
 #banner {
   padding: 6em 0 4em 0 ;
+  background-image: url("images/bg.png");
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
@@ -312,7 +313,7 @@ input, select, textarea {
     flex-shrink: 0;
     display: block;
     margin: 0 0 2em 4em;
-    width: 30%; }
+    width: 50%; }
     #banner .image img {
       height: 100%;
       -moz-object-fit: cover;
