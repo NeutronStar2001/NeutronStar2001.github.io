@@ -284,7 +284,7 @@ input, select, textarea {
 
 /* Banner a tempt*/
 .banner {
-  padding: 4em 550em 4em 4em; /*上右下左*/
+  padding: 4em 10%; /*上右下左*/
   background-image: url("images/bg.png");
   box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
   padding: 8em 0 8em 0;
@@ -292,7 +292,9 @@ input, select, textarea {
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
-  display: flex; }
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;}
   .banner h1 {
     margin-top: -0.125em; }
   .banner .content {
@@ -305,7 +307,7 @@ input, select, textarea {
     -ms-flex-shrink: 1;
     flex-shrink: 1;
     width: 55%;
-    padding-right: 5%}
+    padding-right: 0}
   .banner .image {
     -moz-flex-grow: 0;
     -webkit-flex-grow: 0;
