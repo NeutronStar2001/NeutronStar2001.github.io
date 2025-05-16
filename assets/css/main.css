@@ -284,7 +284,7 @@ input, select, textarea {
 
 /* Banner a tempt*/
 .banner {
-  padding: 4em 10%;
+  padding: 4em 550em 4em 4em; /*上右下左*/
   background-image: url("images/bg.png");
   box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
   padding: 8em 0 8em 0;
@@ -317,8 +317,7 @@ input, select, textarea {
     flex-shrink: 0;
     display: block;
     margin: 0;
-    width: 40%;
-    align-self: center;}
+    width: 40%;}
     .banner .image img {
       height: 100%;
       -moz-object-fit: cover;
